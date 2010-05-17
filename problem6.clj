@@ -1,4 +1,5 @@
 (ns problem6)
+(comment "This is a solution from the web, not mine")
 
 (defn sumOfSquares 
 	"Finds the sum of squares"
